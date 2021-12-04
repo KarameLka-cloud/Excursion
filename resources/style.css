@@ -1,18 +1,8 @@
-* {
-    font-family: Verdana;
-}
-
 body {
+    font-family: "Verdana", sans-serif;
     background-color: black;
     text-align: center;
-}
-
-footer {
-    text-align: right;
-}
-
-h1, h2 {
-    color: white
+    color: white;
 }
 
 h1 {
@@ -33,4 +23,8 @@ p {
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+footer {
+    text-align: right;
 }
